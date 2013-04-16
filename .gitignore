@@ -4,3 +4,8 @@
 *.jar
 *.war
 *.ear
+.gradle/
+Lightweight-J2EE.iws
+Lightweight-J2EE.iml
+Lightweight-J2EE.ipr
+build/
